@@ -1,5 +1,5 @@
-<h1 align="center">Hi, I'm Ahmed 👋</h1>
-<h3 align="center">Backend Developer | Node.js & TypeScript</h3>
+<h1 align="center">Hi, I'm Ahmed Abdulrahman 👋</h1>
+<h3 align="center">Junior Back-End Developer | Node.js & TypeScript</h3>
 
 <p align="center">
 Building reliable APIs and learning how things work under the hood — from HTTP requests down to memory and the OS.
