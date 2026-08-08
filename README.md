@@ -40,16 +40,11 @@ Technologies I actively use in real projects.
 Tools and concepts I've worked with and understand well, without being daily-driver level.
 
 <p>
-  <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white" />
   <img src="https://img.shields.io/badge/bcrypt-338033?style=flat-square" />
   <img src="https://img.shields.io/badge/dotenv-ECD53F?style=flat-square" />
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
   <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white" />
 </p>
 
 **Concepts:** Session-based Authentication · Role-Based Access Control (RBAC) · CORS · Environment Configuration · API Versioning · File Uploads · Database Normalization · Clean Code & Modular Architecture · MVC · Separation of Concerns · Basic OOP & Functional Programming Concepts
