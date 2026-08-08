@@ -90,7 +90,7 @@ A backend API for managing a library — books, categories, and borrow requests 
 
 **Tech Stack:** Node.js · Express.js · PostgreSQL · JWT · Google OAuth · Swagger
 
-**Repo:** `[link here]`
+**Repo:** `https://github.com/ahmed12334567/Library-Management`
 
 ---
 
@@ -105,7 +105,7 @@ A backend system for an e-commerce store, handling authentication, product/order
 
 **Tech Stack:** Node.js · Express.js · SQL (MySQL)
 
-**Repo:** `[link here]`
+**Repo:** `https://github.com/ahmed12334567/B2B-Store`
 
 <br>
 
@@ -136,19 +136,11 @@ I'm interested in what happens beneath the frameworks I use — how requests act
 
 <br>
 
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=default&hide_border=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&hide_border=true" height="165" />
-</p>
-
-<br>
 
 ## 🔗 Connect With Me
 
 <p>
-  <a href="https://github.com/YOUR_USERNAME"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/YOUR_LINKEDIN"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://YOUR_PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
+  <a href="https://github.com/ahmed12334567"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/ahmed-abdulrahman-aa04493a1/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" /></a>
+  <a href="https://ahmed-abdulrahman-portfolio-ahmed12334567s-projects.vercel.app?_vercel_share=HBewUYvZL8rrIZL3w6bpxLfZqePBMt7Q"><img src="https://img.shields.io/badge/Portfolio-000000?style=flat-square&logo=vercel&logoColor=white" /></a>
 </p>
